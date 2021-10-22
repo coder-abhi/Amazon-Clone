@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
         <Router>
+          <Header />
       <Switch>
         
-          <Header />
         <Route path="/checkout">
           <Checkout />
           {/* <Home /> */}

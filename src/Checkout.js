@@ -10,13 +10,13 @@ function Checkout() {
                 {/* <Img alt="Why" className="checkout-ad" /> */}
                 {/* Hello checkout */}
             <h2 className="checkout-title" >
-                Shopping Basekt
+                Shopping Basket
             </h2>
             
             </div>
         <div className="checkout-right">
             {/* Subtle  */}
-            Suvtle Addtion
+            {/* Suvtle Addtion */}
         </div>
         </div>
     )
